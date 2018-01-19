@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="rota_admin" name="rota_admin">40496e710a0a2c965a8eca13b7e1dcd3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-09 22:04:43</sys_created_on>
+        <sys_id>7525c6f90fef0b0060df3a7ce1050e84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>40496e710a0a2c965a8eca13b7e1dcd3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7525c6f90fef0b0060df3a7ce1050e84</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-09 22:04:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
